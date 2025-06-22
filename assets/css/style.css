@@ -148,7 +148,7 @@ p.about-name {
   font-size: 45px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #5C5D88;
+  color: #7B7D34;
 }
 
 .form-control {
@@ -698,7 +698,7 @@ p.about-name {
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-  color: #C8638B;
+  color: #A35C13;
 }
 
 #portfolio #portfolio-flters li:last-child {
